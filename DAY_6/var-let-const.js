@@ -1,0 +1,14 @@
+var number;
+var number=20;
+console.log(`value:${number}`);
+var number=35;
+console.log(`new value:${number}`);
+var number=50;
+console.log(`latest value:${number}`);
+let fullname;
+fullname="desh";
+console.log(`my first name is:${fullname}`);
+fullname="San";
+console.log(`my full name is:${fullname}`);
+const age=20;
+console.log(`my age is:${age}`);

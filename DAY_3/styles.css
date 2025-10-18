@@ -1,0 +1,17 @@
+div.child{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    border: 2px solid black ;
+    color:black;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+.parent{
+    display:flex;
+    justify-content: space-evenly;
+    border:1px solid black;
+    height: 500px;
+    flex-wrap: wrap;
+}
